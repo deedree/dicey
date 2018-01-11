@@ -4,7 +4,7 @@
 |     BWR |
 | V.  1.0 |
 
-##*DICEY* a `WillemBarendz` Product	<img src="/Users/basroos/dicey/Screen Shot 2018-01-11 at 01.24.37.png" style="zoom:10%;border-radius: 12px;" />
+##*DICEY* a `WillemBarendz` Product			<img src="/Users/basroos/dicey/diceyLogo.png" style="zoom:10%;border-radius: 12px;" />
 
 **Bespreken Bart**:
 
