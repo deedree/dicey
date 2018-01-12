@@ -4,7 +4,7 @@
 |     BWR |
 | V.  1.0 |
 
-##*DICEY* a `WillemBarendz` Product			<img src="diceyLogo.png" style="zoom:10%;border-radius: 12px;" />
+##*DICEY* a `WillemBarendz` Product			<img src="diceyLogo.png" style="zoom:10%" />
 
 **Bespreken Bart**:
 
@@ -35,6 +35,7 @@
 - Paper.js
 - Matter.js
 - Cordova, kan ook gelijk android maken *levert geen geld op, snel opgeven wanneer moelijk*
+  - Ionicframework
 - Javascript
 - HTML5
 - CSS
