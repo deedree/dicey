@@ -4,7 +4,11 @@
 |     BWR |
 | V.  1.0 |
 
-##*DICEY* a `WillemBarendz` Product			<img src="diceyLogo.png" width="75" />
+##*DICEY* a `WillemBarendz` Product			
+
+**Logo ideeen**
+
+<img src="diceyLogo.png" width="100"; align="left" />
 
 **Bespreken Bart**:
 
