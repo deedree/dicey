@@ -4,7 +4,7 @@
 |     BWR |
 | V.  1.0 |
 
-##*DICEY* a `WillemBarendz` Product			
+## *DICEY* a `WillemBarendz` Product			
 
 **Logo ideeën**
 
