@@ -8,7 +8,9 @@
 
 **Logo ideeën**
 
-<img src="diceyLogo.png" width="100"; align="left" />
+
+
+<img src="diceyLogo.png" width="200" align="center" />
 
 
 
