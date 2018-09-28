@@ -6,9 +6,25 @@
 
 ##*DICEY* a `WillemBarendz` Product			
 
-**Logo ideeen**
+**Logo ideeën**
 
 <img src="diceyLogo.png" width="100"; align="left" />
+
+
+
+**Inspiration**
+
+http://a.teall.info/dice/
+
+* Threes.js
+* Cannonballo.js
+
+*Thoughts*
+
+* Port to react native
+* Can libraries be used there
+
+
 
 **Bespreken Bart**:
 
@@ -38,7 +54,7 @@
 - Grid(CSS)
 - Paper.js
 - Matter.js
-- Cordova, kan ook gelijk android maken *levert geen geld op, snel opgeven wanneer moelijk*
+- Cordova, kan ook gelijk android maken *// levert geen geld op, snel opgeven wanneer moelijk*
   - Ionicframework
 - Javascript
 - HTML5
